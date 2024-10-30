@@ -22,8 +22,6 @@ To run the notebooks, the following Python packages are required:
 # Results
 The analysis provides insights into the sentiment distribution across different rally speeches. The project highlights the emotional tone of the speeches and examines how sentiment may have shifted over time.
 
-# Source Code
-The source code for this project is maintained in a private repository. For access, please contact kmahali2@asu.edu.
 
 # Contributing
 If you would like to contribute to this project, please fork the repository and submit a pull request.
